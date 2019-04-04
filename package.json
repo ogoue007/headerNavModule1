@@ -1,0 +1,11 @@
+{
+  "name": "headernav",
+  "version": "1.0.0",
+  "description": "headerNavSample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jules",
+  "license": "ISC"
+}
